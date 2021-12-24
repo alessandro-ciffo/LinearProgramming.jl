@@ -1,6 +1,6 @@
 # LinearProgramming.jl
 
-LinearProgramming.jl is a package that allows the user to solve linear programming problems using Julia.
+LinearProgramming.jl is a package that allows you to solve linear programming problems using Julia.
 
 Linear programming problems require the optimization of a linear **objective function**, subject to a series of linear equality and inequality **constraints**.
 The typical linear programming problem has the following matrix form:
